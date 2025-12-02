@@ -33,7 +33,7 @@ Projeto_Final/
 |------------|--------------|
 | Linguagem | ☕ Java 17+ |
 | Framework | 🧱 Spring Boot |
-| Banco de Dados | 🗃️ JPA / Hibernate (compatível com H2, MySQL, PostgreSQL) |
+| Banco de Dados | 🗃 JPA / Hibernate (compatível com H2, MySQL, PostgreSQL) |
 | Segurança | 🔐 Spring Security |
 | Gerenciador de Dependências | 📦 Maven |
 | Mapeamento de Dados | 🧩 DTOs e Mappers |
@@ -41,7 +41,7 @@ Projeto_Final/
 
 ---
 
-## ⚙️ Funcionalidades Principais
+## ⚙ Funcionalidades Principais
 
 ✅ Cadastro, listagem, atualização e exclusão de:
 - *Pacientes*
@@ -83,7 +83,7 @@ Antes de rodar o projeto, verifique se possui instalado:
 
 ---
 
-### ▶️ Passos para rodar
+### ▶ Passos para rodar
 
 1. *Clonar o repositório*
    bash
@@ -127,7 +127,7 @@ Antes de rodar o projeto, verifique se possui instalado:
 
 ---
 
-## 🧑‍⚕️ Exemplos de Entidades
+## 🧑‍⚕ Exemplos de Entidades
 
 Algumas das principais entidades:
 - Paciente
@@ -196,4 +196,4 @@ Sinta-se à vontade para estudar, modificar e melhorar. ✨
 <img width="1916" height="898" alt="preview" src="https://github.com/user-attachments/assets/8354d81c-0235-411e-9e93-91f10a50af2d" />
 
 #### 🏥 Tela Inicial
-<img width="1914" height="903" alt="preview2" src="https://github.com/user-attachments/assets/acbe05ab-6e1a-42eb-bb00-2583c1d8a087" />
+<img width="1914" height="903" alt="preview2" src="https://github.com/user-attachments/assets/acbe05ab-6e1a-42eb-bb00-2583c1d8a087" />
